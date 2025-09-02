@@ -1,4 +1,5 @@
-
+kumar ranjan;
+na+=ass=s;
 a+a+9;
 console.log('kumar')
 console.log('kumar')
